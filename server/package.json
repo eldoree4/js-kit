@@ -1,0 +1,9 @@
+{
+  "name": "js-kit-server",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "bullmq": "^5.9.0",
+    "ioredis": "^5.3.2"
+  }
+}

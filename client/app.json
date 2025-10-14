@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "JS Kit Broadcast",
+    "slug": "js-kit-broadcast",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": [
+      "android",
+      "ios",
+      "web"
+    ],
+    "sdkVersion": "48.0.0",
+    "android": {
+      "package": "com.example.jskitbroadcast"
+    }
+  }
+}
